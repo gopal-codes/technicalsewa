@@ -1,0 +1,9 @@
+{
+    "apps": [
+        {
+            "name": "smartcare-web",
+            "script": "npm",
+            "args" : "start"
+        }
+    ]
+}
