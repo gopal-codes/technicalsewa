@@ -2,5 +2,5 @@
     "builds": [
       { "src": "next.config.js", "use": "node@16.14.0" }
     ]
-  }
+}
   
