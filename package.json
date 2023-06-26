@@ -31,7 +31,6 @@
     "fs": "^0.0.1-security",
     "globby": "^11.0.1",
     "google-map-react": "^2.2.1",
-    "google-maps-react": "^2.0.6",
     "html-react-parser": "^3.0.9",
     "next-seo": "^5.15.0",
     "next-sitemap": "^4.0.6",
