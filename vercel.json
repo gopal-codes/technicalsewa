@@ -1,6 +1,6 @@
 {
     "builds": [
-      { "src": "next.config.js", "use": "@vercel/node@16" }
+      { "src": "next.config.js", "use": "node@16.14.0" }
     ]
   }
   
